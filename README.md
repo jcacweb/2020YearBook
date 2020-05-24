@@ -1,4 +1,4 @@
-# 2020YearBook
+# Instruction on how to replicate this e-book format.
 
 1. Make a copy of the this repository.
 2. Output the hall book as list of individual images with name as `CompiledFinal#.png` where `#` is the page number. So first page will be `CompiledFinal1.png`. MacOS highlight and rename features should be useful. Place these photos in the pages folder. Besides make sure that 2nd and 3rd page is empty page blank space.
