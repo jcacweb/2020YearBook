@@ -4,7 +4,7 @@
 2. Output the hall book as list of individual images with name as `CompiledFinal#.png` where `#` is the page number. So first page will be `CompiledFinal1.png`. MacOS highlight and rename features should be useful. Place these photos in the pages folder. Besides make sure that 2nd and 3rd page is empty page blank space.
 3. Modify `index.html`:
 
-If the maximum number of pages is 105
+If the maximum number of pages is 102 check `2019Yearbook` repo.
 ##### 1
 ```HTML
 <!-- Line 24 -->
