@@ -5,7 +5,7 @@
 3. Modify `index.html`:
 
 If the maximum number of pages is 105
-<br/>
+##### 1
 ```HTML
 <!-- Line 24 -->
 <div class="hard p103"></div>
@@ -13,8 +13,7 @@ If the maximum number of pages is 105
 ```
 Maximum number of pages + 1 and
 maximum number of pages + 2 
-
-<br/>
+##### 2
 ```HTML
 <!-- Line 36 -->
 <div class="divA">
@@ -22,13 +21,13 @@ maximum number of pages + 2
 </div>
 ```
 The download url
-<br/>
+##### 3
 ```HTML
 <!-- Line 59: to number of pages + 3 -->
 	step = 105,
 ```
 This is maximum number of pages + 3
-<br/>
+##### 4
 
 ```HTML
 <!-- Line 168: to number of pages -->
