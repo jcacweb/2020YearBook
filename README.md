@@ -5,7 +5,7 @@
 3. Modify `index.html`:
 
 If the maximum number of pages is 105
-
+<br>
 ```HTML
 <!-- Line 24 -->
 <div class="hard p103"></div>
@@ -14,21 +14,21 @@ If the maximum number of pages is 105
 Maximum number of pages + 1 and
 maximum number of pages + 2 
 
-
+<br>
 ```HTML
 <!-- Line 36 -->
 <div class="divA">
 	<a class="centerA" href="https://firebasestorage.googleapis.com/v0/b/publicity-website.appspot.com/o/yearbook%2FHall%20Book%202020.pdf?alt=media&token=c3a127d3-4cec-4cb5-be56-afe5636f4581"  download="Hall_Year_Book_2019.pdf"   target="_blank">Download</a>
 </div>
 ```
-The download ways
-
+The download url
+<br>
 ```HTML
 <!-- Line 59: to number of pages + 3 -->
 	step = 105,
 ```
 This is maximum number of pages + 3
-
+<br>
 
 ```HTML
 <!-- Line 168: to number of pages -->
